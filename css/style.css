@@ -5,7 +5,7 @@ body {margin:0;}
   position: fixed;
   top: 0;
   color: #FFFFFF;
-  background-color: #ffb3ec;
+  background-color: #FFFFFF;
   width: 100%;
   list-style: none;
   margin: auto;
@@ -23,7 +23,7 @@ body {margin:0;}
 }
 
 .navbar a:active {
-  color: pinkish;
+  color: black;
 }
 
 .navbar li {
@@ -31,7 +31,7 @@ body {margin:0;}
 }
 
 .navbar a:hover {
-  color: Pinksih;
+  color: black;
 }
 
 .main {
